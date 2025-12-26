@@ -34,6 +34,7 @@
 - **Vite**
 - **JavaScript (ES6+)**
 - **HTML5 & CSS3**
+- **Tailwind**
 - **API عمومی فیلم**
 
 ---
