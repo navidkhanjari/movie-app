@@ -1,18 +1,56 @@
-# React + Vite
+# 🎬 Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+یک اپلیکیشن وب مدرن برای **جستجو و نمایش اطلاعات فیلم‌ها** که با **React** و **Vite** توسعه داده شده است.  
+---
 
-Currently, two official plugins are available:
+## 📌 معرفی پروژه
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+در این اپلیکیشن کاربران می‌توانند:
+- فیلم‌ها را جستجو کنند
+- اطلاعات هر فیلم شامل پوستر، توضیحات و امتیاز را مشاهده کنند
+- با یک رابط کاربری ساده و واکنش‌گرا تعامل داشته باشند
 
-## React Compiler
+هدف اصلی این پروژه نمایش توانایی من در:
+- توسعه رابط کاربری با React
+- کار با APIها
+- ساختاردهی تمیز و مقیاس‌پذیر پروژه‌های فرانت‌اند
+می‌باشد.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 🚀 امکانات
 
-## Expanding the ESLint configuration
+- 🔍 جستجوی فیلم بر اساس نام
+- 🎥 نمایش جزئیات فیلم
+- 📱 طراحی واکنش‌گرا (Responsive)
+- 🧩 استفاده از کامپوننت‌های قابل استفاده مجدد
+- ⚡ بیلد سریع و بهینه با Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ تکنولوژی‌های استفاده‌شده
+
+- **React**
+- **Vite**
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+- **API عمومی فیلم**
+
+---
+
+## 📦 راه‌اندازی پروژه به‌صورت لوکال
+
+برای اجرای پروژه روی سیستم خود:
+
+1. کلون کردن ریپو:
+   ```bash
+   git clone https://github.com/navidkhanjari/movie-app.git
+2. ورود به پوشه پروژه
+   ```bash
+   cd movie-app
+3.نصب وابستگی ها 
+   ```bash
+   npm install
+4.اجرای پروژه:
+   ```bash
+  npm run dev
