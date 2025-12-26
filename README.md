@@ -50,8 +50,10 @@
    ```bash
    cd movie-app
 3.نصب وابستگی ها 
+   
    ```bash
    npm install
-4.اجرای پروژه:
+   
+   4.اجرای پروژه:
    ```bash
-  npm run dev
+   npm run dev
